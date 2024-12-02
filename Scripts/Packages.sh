@@ -82,6 +82,5 @@ UPDATE_VERSION() {
 UPDATE_VERSION "sing-box"
 UPDATE_VERSION "tailscale"
 UPDATE_VERSION "alist"
-#修复Openvpnserver一键生成证书
-UPDATE_VERSION "openvpn-openssl" 
-UPDATE_VERSION "openvpn-easy-rsa" 
+#修复Openvpnserver一键生成证书 
+#UPDATE_VERSION "openvpn-easy-rsa" 
